@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0595-big-countries) |
 | [1155-product-sales-analysis-iii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1182-game-play-analysis-iv) |
+| [1258-article-views-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1292-immediate-food-delivery-ii) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
