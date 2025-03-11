@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
