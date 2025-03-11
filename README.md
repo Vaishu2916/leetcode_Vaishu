@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -31,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
