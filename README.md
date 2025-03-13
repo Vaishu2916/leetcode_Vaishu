@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1292-immediate-food-delivery-ii) |
+| [1415-students-and-examinations](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1801-average-time-of-process-per-machine) |
