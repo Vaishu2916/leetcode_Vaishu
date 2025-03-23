@@ -94,8 +94,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1833-find-the-highest-altitude) |
+## Graph
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
