@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1833-find-the-highest-altitude) |
 ## Graph
 |  |
