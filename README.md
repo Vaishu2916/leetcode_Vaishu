@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
+| [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
