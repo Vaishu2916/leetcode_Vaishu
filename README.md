@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1833-find-the-highest-altitude) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/3430-count-days-without-meetings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
