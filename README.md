@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0011-container-with-most-water) |
 | [0228-summary-ranges](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 ## Math
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
