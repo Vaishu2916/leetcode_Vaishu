@@ -205,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
