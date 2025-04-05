@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1777-determine-if-two-strings-are-close) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
