@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
