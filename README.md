@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2470-removing-stars-from-a-string) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0904-leaf-similar-trees) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
