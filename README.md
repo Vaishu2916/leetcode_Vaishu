@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1777-determine-if-two-strings-are-close) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0443-string-compression) |
