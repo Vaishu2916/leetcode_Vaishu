@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
