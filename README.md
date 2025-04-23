@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1500-count-largest-group](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2428-equal-row-and-column-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
+| [1500-count-largest-group](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
