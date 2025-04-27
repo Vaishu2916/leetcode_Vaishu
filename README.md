@@ -189,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0969-number-of-recent-calls) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
