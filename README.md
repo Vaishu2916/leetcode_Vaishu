@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0414-third-maximum-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
