@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
