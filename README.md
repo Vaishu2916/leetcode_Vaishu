@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1500-count-largest-group) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
