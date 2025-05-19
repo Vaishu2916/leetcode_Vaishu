@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1046-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1500-count-largest-group) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
