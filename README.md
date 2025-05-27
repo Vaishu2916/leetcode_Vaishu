@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0724-find-pivot-index) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0566-reshape-the-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2428-equal-row-and-column-pairs) |
 ## Sliding Window
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vaishu2916/leetcode_Vaishu/tree/master/2470-removing-stars-from-a-string) |
